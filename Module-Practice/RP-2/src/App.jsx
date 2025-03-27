@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      <h2>React + RP-2</h2>
+      {/* <h2>React + RP-2</h2> */}
 
       <Players></Players>
 
