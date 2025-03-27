@@ -5,12 +5,12 @@
   margin: 10px;
 }
 
-/* .flags{
+.flags{
   width: 320px;
   height: 160px;
   object-fit: contain  ;
 
-} */
+}
 
 .country-visited{
   background-color: darkgray;
